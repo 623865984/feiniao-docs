@@ -1,7 +1,7 @@
 ---
 home: true
 icon: house
-title: 飞鸟阅读开发者文档
+title: 飞鸟阅读开发者文档啊啊啊
 heroImage: /logo.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
