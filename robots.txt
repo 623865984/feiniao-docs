@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://feiniao.paheng.net/feiniao-docs/sitemap.xml
