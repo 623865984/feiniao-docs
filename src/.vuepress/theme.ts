@@ -13,9 +13,9 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "https://gitee.com/paheng/feiniao",
+  repo: "https://github.com/623865984/feiniao-docs",
 
-  docsDir: "feiniao-docs/src",
+  docsDir: "src",
 
   locales: {
     "/": {
@@ -31,7 +31,7 @@ export default hopeTheme({
 
       // page meta
       metaLocales: {
-        editLink: "在 Gitee 上编辑此页",
+        editLink: "在 Github 上编辑此页",
       },
     },
   },
